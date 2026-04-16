@@ -1,3 +1,9 @@
+# Past version solution files
+task_1/solution_for_task_1(me).md
+task_1/solution_for_task_1(gpt).md
+task_2/solution_for_task_2(me).md
+task_2/solution_for_task_2(gpt).md
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[codz]
