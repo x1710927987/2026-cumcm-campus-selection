@@ -1,0 +1,37 @@
+﻿analysis,title,file_name,description
+01_credibility_weight,Credibility Weight Parameters,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+01_credibility_weight,Credibility Weight Parameters,02_delta_vs_base_model.png,Metric changes relative to the base model.
+01_credibility_weight,Credibility Weight Parameters,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+01_credibility_weight,Credibility Weight Parameters,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+01_credibility_weight,Credibility Weight Parameters,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+01_credibility_weight,Credibility Weight Parameters,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.
+02_weight_clip,Credibility Weight Clipping Interval,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+02_weight_clip,Credibility Weight Clipping Interval,02_delta_vs_base_model.png,Metric changes relative to the base model.
+02_weight_clip,Credibility Weight Clipping Interval,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,02_delta_vs_base_model.png,Metric changes relative to the base model.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+03_zone_shrinkage,Functional-Zone Shrinkage Strength,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.
+04_global_template,Global Template Component,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+04_global_template,Global Template Component,02_delta_vs_base_model.png,Metric changes relative to the base model.
+04_global_template,Global Template Component,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+04_global_template,Global Template Component,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+04_global_template,Global Template Component,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+04_global_template,Global Template Component,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.
+05_feasibility_correction,Feasibility Correction,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+05_feasibility_correction,Feasibility Correction,02_delta_vs_base_model.png,Metric changes relative to the base model.
+05_feasibility_correction,Feasibility Correction,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+05_feasibility_correction,Feasibility Correction,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+05_feasibility_correction,Feasibility Correction,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+05_feasibility_correction,Feasibility Correction,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.
+06_zone_partition,Functional-Zone Partition Scheme,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+06_zone_partition,Functional-Zone Partition Scheme,02_delta_vs_base_model.png,Metric changes relative to the base model.
+06_zone_partition,Functional-Zone Partition Scheme,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.

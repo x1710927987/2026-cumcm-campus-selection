@@ -1,0 +1,7 @@
+﻿metric,comparison,model_better_than_base1_count,model_better_than_base2_count
+mae,lower_is_better,28,10
+rmse,lower_is_better,30,10
+total_relative_error,lower_is_better,12,24
+share_l1,lower_is_better,30,2
+stock_mae,lower_is_better,18,12
+risk_diff,lower_is_better,5,5

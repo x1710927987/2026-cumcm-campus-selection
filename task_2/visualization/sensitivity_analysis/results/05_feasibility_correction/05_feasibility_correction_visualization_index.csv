@@ -1,0 +1,7 @@
+﻿analysis,title,file_name,description
+05_feasibility_correction,Feasibility Correction,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+05_feasibility_correction,Feasibility Correction,02_delta_vs_base_model.png,Metric changes relative to the base model.
+05_feasibility_correction,Feasibility Correction,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+05_feasibility_correction,Feasibility Correction,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+05_feasibility_correction,Feasibility Correction,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+05_feasibility_correction,Feasibility Correction,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.

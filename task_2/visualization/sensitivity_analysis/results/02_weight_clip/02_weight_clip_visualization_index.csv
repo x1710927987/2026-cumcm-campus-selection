@@ -1,0 +1,7 @@
+﻿analysis,title,file_name,description
+02_weight_clip,Credibility Weight Clipping Interval,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+02_weight_clip,Credibility Weight Clipping Interval,02_delta_vs_base_model.png,Metric changes relative to the base model.
+02_weight_clip,Credibility Weight Clipping Interval,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+02_weight_clip,Credibility Weight Clipping Interval,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.

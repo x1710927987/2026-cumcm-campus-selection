@@ -1,0 +1,7 @@
+﻿analysis,title,file_name,description
+06_zone_partition,Functional-Zone Partition Scheme,01_scenario_metric_overview.png,Scenario-level comparison across prediction and operation metrics.
+06_zone_partition,Functional-Zone Partition Scheme,02_delta_vs_base_model.png,Metric changes relative to the base model.
+06_zone_partition,Functional-Zone Partition Scheme,03_station_mae_heatmap.png,Station-level MAE heatmap across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,04_zone_mae_comparison.png,Zone-level MAE comparison across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,05_operational_risk_comparison.png,Inventory-risk comparison across scenarios.
+06_zone_partition,Functional-Zone Partition Scheme,06_mae_stock_tradeoff.png,Tradeoff between prediction MAE and inventory trajectory error.

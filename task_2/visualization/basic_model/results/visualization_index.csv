@@ -1,0 +1,14 @@
+﻿file_name,description
+01_overall_metrics_combined.png,"Overall comparison of Base1, Base2, and the proposed model on combined borrow/return metrics."
+02_metrics_by_variable.png,Borrow and return metrics shown separately.
+03_station_mae_improvement.png,Station-level MAE improvement of the proposed model relative to Base1 and Base2.
+04_station_mae_heatmap.png,Station-level MAE heatmap for the three prediction methods.
+05_zone_metrics_combined.png,Functional-zone comparison under combined borrow/return metrics.
+06_selected_hourly_fit_borrow.png,Hourly borrow curves for six objectively selected stations.
+06_selected_hourly_fit_return.png,Hourly return curves for six objectively selected stations.
+07_heatmap_actual_model_error_borrow.png,"Station-hour borrow heatmap for actual values, model predictions, and errors."
+07_heatmap_actual_model_error_return.png,"Station-hour return heatmap for actual values, model predictions, and errors."
+08_zone_average_hourly_curves.png,Average hourly curves by functional zone.
+09_selected_stock_trajectories.png,Inventory trajectories driven by actual and predicted borrow/return values.
+10_risk_metrics_by_station.png,Operational risk metrics by station.
+11_selected_station_metrics.png,Metric summary for the six selected stations.

@@ -1,0 +1,2 @@
+﻿target_d,baseline_d,lambda_1,lambda_2,lambda_3,theta,w_min,w_max,parameter_label
+7,6,0.6,0.2,0.2,0.7,0.3,0.8,"lambda=(0.60,0.20,0.20);theta=0.70;w=[0.30,0.80]"
